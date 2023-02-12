@@ -1,0 +1,104 @@
+[
+    {
+        "headache": "headache",
+        "medications": [ 
+                {
+                    "drugName" : "Aspirin",
+                    "img": "https://images.heb.com/is/image/HEBGrocery/000671393",
+                    "text": "Use: Aspirin is used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, common cold, and headaches.\nPrecaution: Do not use aspirin if you are allergic to it or other salicylates. If you suffer from bleeding/blood clotting disorders, kidney disease, liver disease, diabetes or stomach problems, consult you doctor before taking aspirin.",
+                    "link": "https://www.webmd.com/drugs/2/drug-1082-3/aspirin-oral/aspirin-oral/details"   
+                },
+                {
+                    "drugName": "Ibuprofen",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlFrpaMxgenT8EQavl2_sCAUXEbturyCzNyhrjCN5HJxOUnTCwXwoAhGwWPcTkDD7FwE&usqp=CAU",
+                    "text": "Use: Ibuprofen is used to relieve pain, fevers, and minor aches. Ibuprofen is an nonsteroidical anti-inflammatory drug.\nPrecaution: Do not use Ibuprofen if you are allergic. If you suffer from asthma, blood disorders, heart disease,  high blood pressure, liver disease, strokes, or throat/stomach/intestinal problems, talk with you doctor before taking ibuprofen.",
+                    "link": "https://www.webmd.com/drugs/2/drug-5166-9368/ibuprofen-oral/ibuprofen-oral/details"
+                }
+            ]
+    },
+    {
+        "fever": "fever",
+        "medications": [  
+                {
+                    "drugName" : "Acetaminophen",
+                    "img": "https://cdn.britannica.com/23/130223-050-99065995/acetaminophen-suppositories.jpg",
+                    "text": "Uses: mild to moderate Headaches, arthritis, cold/flu, toothaches, backaches.\nPrecautions: Do not use it if you are allergic. If you suffer from liver disease, regular use/abuse of alcohol, consult your doctor before taking Acetaminophen.",
+                    "link": "https://www.webmd.com/drugs/2/drug-362/acetaminophen-oral/details"  
+                },
+                {
+                    "drugName": "Ibuprofen",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlFrpaMxgenT8EQavl2_sCAUXEbturyCzNyhrjCN5HJxOUnTCwXwoAhGwWPcTkDD7FwE&usqp=CAU",
+                    "text": "Use: Ibuprofen is used to relieve pain, fevers, and minor aches. Ibuprofen is an nonsteroidical anti-inflammatory drug.\nPrecaution: Do not use Ibuprofen if you are allergic. If you suffer from asthma, blood disorders, heart disease,  high blood pressure, liver disease, strokes, or throat/stomach/intestinal problems, talk with you doctor before taking ibuprofen.",
+                    "link": "https://www.webmd.com/drugs/2/drug-5166-9368/ibuprofen-oral/ibuprofen-oral/details"
+                }
+            ]
+    },
+    {
+        "congestion": "congestion",
+        "medications": [  
+                {
+                    "drugName" : "Oxymetazoline",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf5a0RWLijZqiD-0hd-zMwFONJelKzD4UPwmhtgMjxVS_AJzEQr_v_VkPGDTgxloAi2VI&usqp=CAU",
+                    "text": "Use: relief of congestion,  common cold, sinusitis, hay fever, and allergies.\nPrecautions: Do not use it if you are allergic. If you suffer from heart/blood vessel disease, overactive thyroid (hyperthyroidism), diabetes, high blood pressure, difficulty urinating consult a doctor before taking Oxymetazoline.",
+                    "link": "https://www.webmd.com/drugs/2/drug-20236/oxymetazoline-menthol-nasal/details"   
+                },
+                {
+                    "drugName": "Sudafed PE",
+                    "img": "https://pics.walgreens.com/prodimg/601467/900.jpg",
+                    "text": "Non-drowsy nasal decongestant helps relieve head congestion, sinus pressure, headache and pain symptoms.",
+                    "link": ""
+                }
+            ]
+    },
+    {
+        "vomitting": "vomitting",
+        "medications": [  
+                {
+                    "drugName" : "Bismuth subsalicylate",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0olN2w1_DUW7QMFiFgQRBaieL6qOzLCeOjJvR0M6pEuYRIA8XSuoDx7-RLEocqO4dPAQ&usqp=CAU",
+                    "text": "Use: This medication is used to treat occasional upset stomach, heartburn, and nausea. It is also used to treat diarrhea.\nPrecautions: Do not take if allergic to Aspirin, salicylates or ibuprofen. If you have phenylketonuria, bleeding problems (such as hemophilia), bloody/black/tarry stools, or gout. consult your doctor before taking it.",
+                    "link": "https://www.webmd.com/drugs/2/drug-3596/bismuth-subsalicylate-oral/details"
+                },
+                {
+                    "drugName": "Diphenhydramine",
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqoet2QOkN5cCZF0B2dcw3pZ876E4AssITg&usqp=CAU",
+                    "text": "Uses: It is also used to prevent and treat nausea, vomiting and dizziness caused by motion sickness.\nPrecautions: Do not use if allergic to the drug. If you suffer from  breathing problems (such as asthma, emphysema), high pressure in the eye (glaucoma), heart problems, high blood pressure, liver disease, seizures, stomach/intestine problems (such as ulcers, blockage), overactive thyroid (hyperthyroidism), difficulty urinating (for example, due to enlarged prostate).",
+                    "link": "https://www.webmd.com/drugs/2/drug-1428/diphenhydramine-oral/details"
+                }
+            ]
+    },
+    {
+        "soreThroat": "soreThroat",
+        "medications": [  
+                {
+                    "drugName" : "Cepacol",
+                    "img": "https://pics.walgreens.com/prodimg/369987/450.jpg",
+                    "text": "Extra strength sore throat cherry lozenges provide instant acting sore throat relief and the maximum strength numbing medication available per dose.",
+                    "link": ""   
+                },
+                {
+                    "drugName": "Chloraseptic",
+                    "img": "https://pics.walgreens.com/prodimg/192921/450.jpg",
+                    "text": "Used for the temporary relief of occasional minor irritation, pain, sore mouth and sore throat.",
+                    "link": ""
+                }
+            ]
+    },
+    {
+        "cough": "cough",
+        "medications": [  
+                {
+                    "drugName" : "Antitussive",
+                    "img": "https://pics.walgreens.com/prodimg/11096/450.jpg",
+                    "text": "Uses: treat coughs and congestion caused by the common cold, bronchitis, and other breathing illnesses\nPrecautions: Do not use if allergic to the drug. If you are suffering from an ongoing cough from smoking or long term breathing problems (such as chronic bronchitis, emphysema).",
+                    "link": "https://www.webmd.com/drugs/2/drug-54333/antitussive-oral/details"   
+                },
+                {
+                    "drugName": "Dextromethorphan",
+                    "img": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-robitussin-v2/en_US/products/sugar-free-cough-chest-congestion-dm-robitussin.png?auto=format",
+                    "text": "Uses: temporary relief of coughs without phlegm that are caused by certain infections of the air passages (such as sinusitis, common cold)\nPrecautions: Do not use if allergic to the drug. If you are suffering from an ongoing cough from smoking or long term breathing problems (such as chronic bronchitis, emphysema).",
+                    "link": "https://www.webmd.com/drugs/2/drug-363/dextromethorphan-hbr-oral/details"
+                }
+            ]
+    }
+]
