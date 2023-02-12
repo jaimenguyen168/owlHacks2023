@@ -4,11 +4,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+
   </head>
   <body>
-    <h1>Apple Store</h1>
+    <h1 id="MainTitle">Welcome to Universal.Symptom.Solver </h1>
+    <p>Click on the dropdown button to translate.</p>
+  <p>Translate this page:</p>
+
+<div id="google_translate_element"></div>
+ <script type="text/javascript"> 
+   function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+  }
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     
-    <div>
+    <div id="mainStuff">
+      <h2>Select one Symptom</h2>
+
       <ul id="symptoms">
          
           <li>Headaches <input type="checkbox" id="headache" name="headache" value="headache"></li>
@@ -23,27 +38,30 @@
       <div>
           <button id="btn">Submit</button>
       </div>   
+      <hr>
   </div>
-
+``<h2 id="suggestion"></h2>
+<hr>
   <div class="result">
-    <h2 id="suggestion"></h2>
-
-    <div class="first-opt">
+    
+    <div class="float-child">
       <h2 id="drugname"></h2>
       <img id="image" src="" height="200">
       <p id="drug-info"></p>
       <p id="link"><a id="drug-link" href=""></a></p>
     </div>
-    
-    <div class="second-opt">
+    <hr>
+    <div class="float-child">
       <h2 id="drugname2"></h2>
       <img id="image2" src="" height="200">
       <p id="drug-info2"></p>
       <p id="link2"><a id="drug-link2" href=""></a></p>
     </div>
-
-    <p>This site is not a replacement for a doctor. If you are experiencing serious symptoms, seek medical help immediately.</p>
+    <hr>
   </div>
+    <p id="end">This site is not a replacement for a doctor. If you are experiencing serious symptoms, seek medical help immediately.</p>
+    <p></p>
+  
 
     <script src="script.js"></script>
   </body>
