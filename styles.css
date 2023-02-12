@@ -1,15 +1,17 @@
 body{
-  background-color: gray;
+  background: linear-gradient(#33b56b,#9198e5,#33b56b)
   
 }
-
+img{
+  opacity: 100;
+}
 
 ul{
   list-style: none;
 }
 li{
   padding-bottom: 20px;
-  
+  font-size: large;
 }
 
 h1{
